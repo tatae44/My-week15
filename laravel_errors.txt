@@ -1,0 +1,23 @@
+﻿
+[2026-09-21 09:15:23] local.ERROR: Target class [BlogController] does not 
+exist. {"userId":3,"exception":"[object] 
+(Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target 
+class [BlogController] does not exist. at C:/xampp/htdocs/Tanakit/My-week15/ven
+dor/laravel/framework/src/Illuminate/Container/Container.php:1124)
+[previous exception] [object] (ReflectionException(code: -1): Class 
+\"BlogController\" does not exist at C:/xampp/htdocs/Tanakit/My-week15/vendor/l
+aravel/framework/src/Illuminate/Container/Container.php:1122)
+#0 C:/xampp/htdocs/Tanakit/My-week15/vendor/laravel/framework/src/Illuminate/Co
+ntainer/Container.php(1122): ReflectionClass->__construct('BlogController')
+[2026-09-21 09:16:28] local.ERROR: Target class [BlogController] does not 
+exist. {"userId":3,"exception":"[object] 
+(Illuminate\\Contracts\\Container\\BindingResolutionException(code: 0): Target 
+class [BlogController] does not exist. at C:/xampp/htdocs/Tanakit/My-week15/ven
+dor/laravel/framework/src/Illuminate/Container/Container.php:1124)
+[previous exception] [object] (ReflectionException(code: -1): Class 
+\"BlogController\" does not exist at C:/xampp/htdocs/Tanakit/My-week15/vendor/l
+aravel/framework/src/Illuminate/Container/Container.php:1122)
+#0 C:/xampp/htdocs/Tanakit/My-week15/vendor/laravel/framework/src/Illuminate/Co
+ntainer/Container.php(1122): ReflectionClass->__construct('BlogController')
+
+
